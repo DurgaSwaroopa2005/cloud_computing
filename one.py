@@ -1,1 +1,2 @@
-print('Hello CSE')
+n=int(input("Enter a number: "))
+print(n)
